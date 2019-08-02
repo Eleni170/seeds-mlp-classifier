@@ -9,4 +9,4 @@ The classifier can use as activation functions Linear (purelin), Hyperbolic Tang
 
 The classifier also gives the ability to the user to input other variables, such as the number of hidden layers, the number of neurons in each layer, the number of epochs, the value of the least mean square error and the training step. For Gradient Descent with or without momentum, training can stop before the number of epochs are reached if the subtraction of error between 2 sequential epochs is under LMSE. Results are plotted in graphs that show the instances in 2-dimensional space (usage of perimeter and area attributes), the targets and Mean Square Error per epoch. 
 
-In order to use the code in the repository just run main.py in python (python main.py).  
+In order to use the code in the repository run `python main.py`.  
